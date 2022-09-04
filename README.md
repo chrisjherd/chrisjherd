@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisjherd
+- 👋 Hi, I’m Chris Herd
 - 👀 I’m an amateur pilot and amateur developer and this is where those worlds collide
 - 🌱 I’m currently learning android development in kotlin and firestore
 - 💞️ I’m looking to collaborate on general aviation applications
